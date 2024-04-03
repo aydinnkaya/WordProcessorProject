@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\WordProcessorProject\WordProcessorProject\bin\Debug\WordProcessorProject.exe
+C:\Users\user\source\repos\WordProcessorProject\WordProcessorProject\bin\Debug\WordProcessorProject.pdb
+C:\Users\user\source\repos\WordProcessorProject\WordProcessorProject\obj\Debug\WordProcessorProject.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WordProcessorProject\WordProcessorProject\obj\Debug\WordProcessorProject.Form1.resources
+C:\Users\user\source\repos\WordProcessorProject\WordProcessorProject\obj\Debug\WordProcessorProject.Properties.Resources.resources
+C:\Users\user\source\repos\WordProcessorProject\WordProcessorProject\obj\Debug\WordProcessorProject.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WordProcessorProject\WordProcessorProject\obj\Debug\WordProcessorProject.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WordProcessorProject\WordProcessorProject\obj\Debug\WordProcessorProject.exe
+C:\Users\user\source\repos\WordProcessorProject\WordProcessorProject\obj\Debug\WordProcessorProject.pdb
